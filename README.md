@@ -1,7 +1,7 @@
 <h1>HTML Email Project</h1>
  <h3> The HTML Email project aimed to create a responsive email message using HTML and CSS. The primary goal was to design an email template that would render consistently across various email clients and devices, ensuring a seamless user experience. </h3>
  
- <h3Project Components:</h3>
+ <h3>Project Components:</h3>
 
 <ul>
  <li>HTML Structure:</li>
